@@ -29,9 +29,9 @@ _In each file do not forget to change path name in case, for example:
 
 ## Proposed features:
 
-When the character dies, a screen indicates the game over, this happens when lives number is below 0. A health bar indicates the number of lives, and decreases when the hero get damaged.
+When the character dies, a screen indicates that the game over, this happens when lives number is below 0. A health bar indicates the number of lives, and decreases when the hero get damaged.
 
 
-Do not go near this static guy, or you will loose 1 life. Better stay away, as soon as you are 100 pixels away from him it will be ok.
+Do not go near this static guy, or you will loose 1 life. Better stay away, as soon as you are 10 pixels away from him it will be ok.
 
-Using [SPACE] Keyboard, cast a very freezing spell near somebody, icy mountains grow very fast. Last 2 secondes, cooldown of 4 seconds. Beware! It is very exaustive, cost 1 life.
+Using [SPACE] Keyboard, cast a very freezing spell near somebody (<100 px), icy mountains grow very fast. Last 2 secondes, cooldown of 4 seconds. Beware! It is very exaustive, cost 1 life.
