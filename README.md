@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Autonomous development of the Dungeon Crawler game.
+# Autonomous development of the Dungeon Crawler game for Java POO
 
 _Erwan AKKOCA_
 _2G1 TD2 TP3_
